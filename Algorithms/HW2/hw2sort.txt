@@ -1,0 +1,66 @@
+[1mrand1000.txt[0m
+[4mInsertion sort:[0m
+Start Time: 1707840757.892642
+End Time: 1707840757.952261
+Total Time: 0.05961894989013672 seconds
+Iterations: 246373
+[4mMerge sort:[0m
+Start Time: 1707840757.952334
+End Time: 1707840757.957473
+Total Time: 0.00513911247253418 seconds
+Iterations: 9976
+[1mrand10000.txt[0m
+[4mInsertion sort:[0m
+Start Time: 1707840757.96478
+End Time: 1707840765.09326
+Total Time: 7.128479957580566 seconds
+Iterations: 24982755
+[4mMerge sort:[0m
+Start Time: 1707840765.0933115
+End Time: 1707840765.1829646
+Total Time: 0.08965301513671875 seconds
+Iterations: 143592
+[1mrand100000.txt[0m
+[4mInsertion sort:[0m
+Start Time: 1707840765.2560914
+End Time: 1707841524.9598958
+Total Time: 759.7038044929504 seconds
+Iterations: 2505219319
+[4mMerge sort:[0m
+Start Time: 1707841524.960033
+End Time: 1707841525.8673046
+Total Time: 0.9072716236114502 seconds
+Iterations: 1812520
+[1mrand250000.txt[0m
+[4mInsertion sort:[0m
+Start Time: 1707841526.0325592
+End Time: 1707847179.7148159
+Total Time: 5653.682256698608 seconds
+Iterations: 15644804958
+[4mMerge sort:[0m
+Start Time: 1707847179.7149677
+End Time: 1707847182.3490088
+Total Time: 2.6340410709381104 seconds
+Iterations: 6300376
+[1mrand500000.txt[0m
+[4mInsertion sort:[0m
+Start Time: 1707847182.6764233
+End Time: 1707887125.749288
+Total Time: 39943.07286477089 seconds
+Iterations: 62475643455
+[4mMerge sort:[0m
+Start Time: 1707887125.749396
+End Time: 1707887131.3731363
+Total Time: 5.623740196228027 seconds
+Iterations: 15776088
+[1mrand1000000.txt[0m
+[4mInsertion sort:[0m
+Start Time: 1707887132.0602782
+End Time: 1707987096.3346496
+Total Time: 99964.27437138557 seconds
+Iterations: 249925868109
+[4mMerge sort:[0m
+Start Time: 1707987096.3347664
+End Time: 1707987108.5121667
+Total Time: 12.177400350570679 seconds
+Iterations: 35727512
