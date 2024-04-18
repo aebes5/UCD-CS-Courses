@@ -1,5 +1,5 @@
 ## Outputs
 
-![image](PA3 output.png)
+![image](PA3_output.png)
 
-![image](PA3 outpu2.png)
+![image](PA3_outpu2.png)
