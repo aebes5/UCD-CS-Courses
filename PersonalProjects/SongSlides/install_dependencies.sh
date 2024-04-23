@@ -1,3 +1,3 @@
-#!C:\Users\andre\OneDrive\Documents\Object Oriented Programming\usr\share\doc\bash
+#!bin/bash/
 pip install python-pptx
 pip install comtypes
