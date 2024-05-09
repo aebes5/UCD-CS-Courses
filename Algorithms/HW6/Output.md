@@ -16,5 +16,7 @@
 ![image](image_8.png)
 
 # PROBLEMS !!!
+
+## Not sure why this happened, but this is the only problem I am aware of.
 ![image](image_9.png)
 ![image](image_10.png)
