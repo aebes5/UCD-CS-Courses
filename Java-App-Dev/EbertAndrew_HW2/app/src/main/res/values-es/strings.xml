@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">EbertAndrew_HW2</string>
+    <string name="phoneBookHeader">Phone Book Information</string>
+    <string name="name">Name</string>
+    <string name="streetAddress">Street Address</string>
+    <string name="city">City</string>
+    <string name="state">State</string>
+    <string name="zipCode">Zip Code</string>
+    <string name="email">Email</string>
+    <string name="phoneNumber">Phone Number</string>
+    <string name="typeOfContact">Type of Contact:</string>
+    <string name="contactFamily">Family</string>
+    <string name="contactFriend">Friend</string>
+    <string name="contactBusiness">Business Contact</string>
+    <string name="contactOther">Other</string>
+    <string name="submit">Submit</string>
+</resources>

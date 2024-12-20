@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="button_clear">Borrar</string>
+    <string name="button_calculate">Calcular</string>
+    <string name="total_amount_view">Importe Total:</string>
+    <string name="tax_amount_view">Monto del Impuesto:</string>
+    <string name="button_zero">0%</string>
+    <string name="button_five">5%</string>
+    <string name="button_ten">10%</string>
+    <string name="button_twenty">20%</string>
+    <string name="amount_tip">Monto de la Propina:</string>
+    <string name="grand_total_amount">Total General:</string>
+    <string name="amount_zero">0.00</string>
+</resources>
