@@ -23,17 +23,13 @@ This repository contains coursework, notes, and assignments from various Compute
 | [Software Engineering](./Software-Engineering) | SDLC, Agile practices, testing, version control, team collaboration | Fall 2025 |
 
 
-_(...continue for others...)_
-
----
-
 ## 🗂 Structure
 
 Each course folder may contain:
-- `README.md`: Overview or syllabus
-- `notes/`: Handwritten or typed lecture notes
-- `assignments/`: Homeworks and solutions
-- `projects/`: Larger coding projects, if any
+- `Notes/`: Handwritten or typed lecture notes
+- `Assignments/`: Homeworks and solutions
+- `Labs/`: Smaller homeworks and solutions
+- `Project/`: Larger coding projects, if any
 
 ---
 
